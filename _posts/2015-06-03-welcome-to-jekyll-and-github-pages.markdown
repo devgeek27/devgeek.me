@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll and GitHub pages"
 date:   2015-06-03 11:00:00
 categories: blog
-tags: github jekyll
+tags: github, jekyll
 image: /assets/article_images/2015-06-03-welcome-to-jekyll-and-github-pages/desktop.jpg
 ---
 Решил попробовать связку Jekyll + GitHub pages для ведения личного блога. Настроил все за 30 минут, работает отлично. Пока тестирую. Потихонечку буду переносить сюда свои старые посты с Tumblr.

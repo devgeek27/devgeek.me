@@ -3,7 +3,7 @@ layout: post
 title:  "Итоги 2014 и планы на 2015 год"
 date:   2015-01-01 22:25:00
 categories: personal
-tags: review plans
+tags: review, plans
 image: /assets/article_images/2015-01-01-review-2014-plans-2015/2014-year-in-review.jpg
 ---
 2014 год был хорошим годом. В этом году мы круто изменили свою жизнь, еще больше узнали Новую Зеландию и определились с вектором дальнейшей жизни.
