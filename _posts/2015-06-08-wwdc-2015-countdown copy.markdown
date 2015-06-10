@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "В предверии WWDC 2015"
-date:   2015-06-09 00:04:00
+date:   2015-06-08 23:04:00
 categories: Apple events
 tags: apple, wwdc, 2015
 image: /assets/article_images/2015-06-08-wwdc-2015-countdown/WWDC-2015-invitation.jpg
